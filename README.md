@@ -1,0 +1,2 @@
+# springboot_mongo_multiple_datasource
+This is spring boot project for learning springboot_mongo_multiple_datasource
